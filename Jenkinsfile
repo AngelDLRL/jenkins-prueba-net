@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clonar repo') {
             steps {
-                git 'https://github.com/tuusuario/tu-repo.git'
+                git 'https://github.com/AngelDLRL/jenkins-prueba-net'
             }
         }
 
