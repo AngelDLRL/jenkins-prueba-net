@@ -1,0 +1,14 @@
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\bin\Debug\net9.0\AppPrincipal.exe
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\bin\Debug\net9.0\AppPrincipal.deps.json
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\bin\Debug\net9.0\AppPrincipal.runtimeconfig.json
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\bin\Debug\net9.0\AppPrincipal.dll
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\bin\Debug\net9.0\AppPrincipal.pdb
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\obj\Debug\net9.0\AppPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\obj\Debug\net9.0\AppPrincipal.AssemblyInfoInputs.cache
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\obj\Debug\net9.0\AppPrincipal.AssemblyInfo.cs
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\obj\Debug\net9.0\AppPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\obj\Debug\net9.0\AppPrincipal.dll
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\obj\Debug\net9.0\refint\AppPrincipal.dll
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\obj\Debug\net9.0\AppPrincipal.pdb
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\obj\Debug\net9.0\AppPrincipal.genruntimeconfig.cache
+C:\Users\adelarosa\miProyectoDemo\AppPrincipal\obj\Debug\net9.0\ref\AppPrincipal.dll
