@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clonar repo') {
             steps {
-                git 'https://github.com/AngelDLRL/jenkins-prueba-net'
+                git branch: 'main', url: 'https://github.com/AngelDLRL/jenkins-prueba-net'
             }
         }
 
