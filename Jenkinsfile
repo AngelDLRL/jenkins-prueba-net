@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clonar repo') {
             steps {
-                git credentialsId: 'Github-token', branch: 'main', url: 'https://github.com/AngelDLRL/jenkins-prueba-net'
+                git 'https://github.com/AngelDLRL/jenkins-prueba-net'
             }
         }
 
@@ -22,9 +22,10 @@ pipeline {
 
         stage('Ejecutar pruebas') {
             steps {
-                sh 'dotnet test --no-build --verbosity normal'
+                sh 'dotnet test ./AppPrincipal.Tests/AppPrincipal.Tests.csproj'
             }
         }
     }
 }
+
 
